@@ -13,6 +13,6 @@
 [![ВКонтакте](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/tyapkin_s)
 
 
-  
+---
 ![views pixel counter](https://hit.yhype.me/github/profile?user_id=18362352)
-![](____https://komarev.com/ghpvc/?username=SergTyapkin&style=for-the-badge&color=green&label=PROFILE+VIEWS&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=SergTyapkin&style=for-the-badge&color=green&label=PROFILE+VIEWS&abbreviated=true)
