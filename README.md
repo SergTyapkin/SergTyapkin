@@ -10,9 +10,32 @@
 
 </div>
 
-![stats](https://github-readme-stats.vercel.app/api?username=SergTyapkin&show_icons=true&theme=github_dark&hide_border=true&disable_animations=true?count_private=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergTyapkin&layout=compact&show_icons=true&theme=github_dark&hide_border=true&disable_animations=true?count_private=true)
 
+<a href="#"><img alt="stats" height="200" src="https://github-readme-stats.vercel.app/api?username=SergTyapkin&show_icons=true&hide_border=true&bg_color=00000000&title_color=97ca00&icon_color=97ca00&custom_title=My%20Github%20Stats&ring_color=97ca00&text_color=ddd&text_bold=false"></a>
+<a href="#"><img alt="langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergTyapkin&layout=donut&hide_border=true&bg_color=00000000&title_color=97ca00&custom_title=My%20Most%20Used%20Languages&text_color=ddd&text_bold=true&hide=HTML"></a>
+
+
+<a href="#"><img alt="contributions" width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=SergTyapkin&theme=merko&bg_color=00000000&hide_border=true&custom_title=My%20Contributions%20for%2030%20days&line=97ca00&area=true&days=30&title_color=97ca00&color=aaa&height=800"></a>
+
+<!-- 
+## Best frontend repositories
+<a href="https://github.com/SergTyapkin/vue-frontend-template"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=SergTyapkin&repo=vue-frontend-template&bg_color=97ca001f&border_color=97ca00&title_color=97ca00&text_color=aaa"></a>
+<a href="https://github.com/SergTyapkin/microfrontends-vite-vue-react-routers"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=SergTyapkin&repo=microfrontends-vite-vue-react-routers&bg_color=97ca001f&border_color=97ca00&title_color=97ca00&text_color=aaa"></a>
+<a href="https://github.com/SergTyapkin/tech-support-frontend"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=SergTyapkin&repo=tech-support-frontend&bg_color=00000000&border_color=97ca00&title_color=97ca00&text_color=aaa"></a>
+<a href="https://github.com/SergTyapkin/hackathon-future-frontend"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=SergTyapkin&repo=hackathon-future-frontend&bg_color=00000000&border_color=97ca00&title_color=97ca00&text_color=aaa"></a>
+<a href="https://github.com/SergTyapkin/squest-vue"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=SergTyapkin&repo=squest-vue&bg_color=00000000&border_color=97ca00&title_color=97ca00&text_color=aaa"></a>
+<a href="https://github.com/STUD-IT-team/bauman-legends-frontend"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=STUD-IT-team&repo=bauman-legends-frontend&bg_color=00000000&border_color=97ca00&title_color=97ca00&text_color=aaa"></a>
+<a href="https://github.com/STUD-IT-team/bmstu-stud-web-frontend"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=STUD-IT-team&repo=bmstu-stud-web-frontend&bg_color=00000000&border_color=97ca00&title_color=97ca00&text_color=aaa"></a> 
+-->
+
+## Best Not-Frontend repositories
+<a href="https://github.com/SergTyapkin/thaumcraft-auto-researcher"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=SergTyapkin&repo=thaumcraft-auto-researcher&bg_color=97ca001f&border_color=97ca00&title_color=97ca00&text_color=aaa"></a>
+<a href="https://github.com/SergTyapkin/TP_Highload_ya.music"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=SergTyapkin&repo=TP_Highload_ya.music&bg_color=97ca001f&border_color=97ca00&title_color=97ca00&text_color=aaa"></a>
+<a href="https://github.com/SergTyapkin/js-models-validator"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=SergTyapkin&repo=js-models-validator&bg_color=00000000&border_color=97ca00&title_color=97ca00&text_color=aaa"></a>
+<a href="https://github.com/SergTyapkin/ot.js-AceEditor-addon"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=SergTyapkin&repo=ot.js-AceEditor-addon&bg_color=00000000&border_color=97ca00&title_color=97ca00&text_color=aaa"></a>
+
+> [!NOTE]
+> Best Frontend repositories pinned in original Gihub Pins below
 
 ## Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tyapkin_s)
