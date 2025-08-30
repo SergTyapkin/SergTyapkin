@@ -36,8 +36,13 @@
 <a href="https://github.com/SergTyapkin/TP_Highload_ya.music"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SergTyapkin&repo=TP_Highload_ya.music&bg_color=f4b4001f&border_color=f4b400&title_color=f4b400&text_color=aaa"></a>
 <a href="https://github.com/SergTyapkin/dynamixel-manipulator"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SergTyapkin&repo=dynamixel-manipulator&bg_color=00000000&border_color=f4b400&title_color=f4b400&text_color=aaa"></a>
 <a href="https://github.com/SergTyapkin/pretty-macros-recorder"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SergTyapkin&repo=pretty-macros-recorder&bg_color=00000000&border_color=f4b400&title_color=f4b400&text_color=aaa"></a>
+
+## Other Frontend repositories
+(Best frontend repositories pinned in original Gihub Pins below)
+
 <a href="https://github.com/SergTyapkin/js-models-validator"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SergTyapkin&repo=js-models-validator&bg_color=00000000&border_color=f4b400&title_color=f4b400&text_color=aaa"></a>
 <a href="https://github.com/SergTyapkin/ot.js-AceEditor-addon"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SergTyapkin&repo=ot.js-AceEditor-addon&bg_color=00000000&border_color=f4b400&title_color=f4b400&text_color=aaa"></a>
+<a href="https://github.com/SergTyapkin/velo-marshals-frontend"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SergTyapkin&repo=velo-marshals-frontend&bg_color=00000000&border_color=f4b400&title_color=f4b400&text_color=aaa"></a>
 
 
 ## Contacts
