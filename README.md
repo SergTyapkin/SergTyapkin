@@ -14,35 +14,35 @@
 </div>
 
 
-<a href="#"><img alt="stats" height="200" src="https://github-readme-stats.vercel.app/api?username=SergTyapkin&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffba00&icon_color=ffba00&custom_title=My%20Github%20Stats&ring_color=ffba00&text_color=ddd&text_bold=false"></a>
-<a href="#"><img alt="langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergTyapkin&layout=donut&hide_border=true&bg_color=00000000&title_color=ffba00&custom_title=My%20Most%20Used%20Languages&text_color=ddd&text_bold=true&hide=HTML"></a>
+<a href="#"><img alt="stats" height="200" src="https://github-readme-stats-fast.vercel.app/api?username=SergTyapkin&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffba00&icon_color=ffba00&custom_title=My%20Github%20Stats&ring_color=ffba00&text_color=ddd&text_bold=false"></a>
+<a href="#"><img alt="langs" height="200" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SergTyapkin&layout=donut&hide_border=true&bg_color=00000000&title_color=ffba00&custom_title=My%20Most%20Used%20Languages&text_color=ddd&text_bold=true&hide=HTML"></a>
 
 
 <a href="#"><img alt="contributions" width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=SergTyapkin&theme=merko&bg_color=00000000&hide_border=true&custom_title=My%20Contributions%20for%2030%20days&line=ffba00&area=true&days=30&title_color=ffba00&area_color=ffba00&color=aaa&height=800"></a>
 
 <!-- 
 ## Best frontend repositories
-<a href="https://github.com/SergTyapkin/vue-frontend-template"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SergTyapkin&repo=vue-frontend-template&bg_color=ffba001f&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
-<a href="https://github.com/SergTyapkin/microfrontends-vite-vue-react-routers"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SergTyapkin&repo=microfrontends-vite-vue-react-routers&bg_color=ffba001f&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
-<a href="https://github.com/SergTyapkin/tech-support-frontend"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SergTyapkin&repo=tech-support-frontend&bg_color=00000000&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
-<a href="https://github.com/SergTyapkin/hackathon-future-frontend"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SergTyapkin&repo=hackathon-future-frontend&bg_color=00000000&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
-<a href="https://github.com/SergTyapkin/squest-vue"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SergTyapkin&repo=squest-vue&bg_color=00000000&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
-<a href="https://github.com/STUD-IT-team/bauman-legends-frontend"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=STUD-IT-team&repo=bauman-legends-frontend&bg_color=00000000&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
-<a href="https://github.com/STUD-IT-team/bmstu-stud-web-frontend"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=STUD-IT-team&repo=bmstu-stud-web-frontend&bg_color=00000000&border_color=ffba00&title_color=ffba00&text_color=aaa"></a> 
+<a href="https://github.com/SergTyapkin/vue-frontend-template"><img height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SergTyapkin&repo=vue-frontend-template&bg_color=ffba001f&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
+<a href="https://github.com/SergTyapkin/microfrontends-vite-vue-react-routers"><img height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SergTyapkin&repo=microfrontends-vite-vue-react-routers&bg_color=ffba001f&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
+<a href="https://github.com/SergTyapkin/tech-support-frontend"><img height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SergTyapkin&repo=tech-support-frontend&bg_color=00000000&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
+<a href="https://github.com/SergTyapkin/hackathon-future-frontend"><img height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SergTyapkin&repo=hackathon-future-frontend&bg_color=00000000&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
+<a href="https://github.com/SergTyapkin/squest-vue"><img height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SergTyapkin&repo=squest-vue&bg_color=00000000&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
+<a href="https://github.com/STUD-IT-team/bauman-legends-frontend"><img height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=STUD-IT-team&repo=bauman-legends-frontend&bg_color=00000000&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
+<a href="https://github.com/STUD-IT-team/bmstu-stud-web-frontend"><img height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=STUD-IT-team&repo=bmstu-stud-web-frontend&bg_color=00000000&border_color=ffba00&title_color=ffba00&text_color=aaa"></a> 
 -->
 
 ## Best Not-Frontend repositories
-<a href="https://github.com/SergTyapkin/thaumcraft-auto-researcher"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SergTyapkin&repo=thaumcraft-auto-researcher&bg_color=ffba001f&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
-<a href="https://github.com/SergTyapkin/TP_Highload_ya.music"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SergTyapkin&repo=TP_Highload_ya.music&bg_color=ffba001f&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
-<a href="https://github.com/SergTyapkin/dynamixel-manipulator"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SergTyapkin&repo=dynamixel-manipulator&bg_color=00000000&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
-<a href="https://github.com/SergTyapkin/pretty-macros-recorder"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SergTyapkin&repo=pretty-macros-recorder&bg_color=00000000&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
+<a href="https://github.com/SergTyapkin/thaumcraft-auto-researcher"><img height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SergTyapkin&repo=thaumcraft-auto-researcher&bg_color=ffba001f&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
+<a href="https://github.com/SergTyapkin/TP_Highload_ya.music"><img height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SergTyapkin&repo=TP_Highload_ya.music&bg_color=ffba001f&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
+<a href="https://github.com/SergTyapkin/dynamixel-manipulator"><img height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SergTyapkin&repo=dynamixel-manipulator&bg_color=00000000&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
+<a href="https://github.com/SergTyapkin/pretty-macros-recorder"><img height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SergTyapkin&repo=pretty-macros-recorder&bg_color=00000000&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
 
 ## Other Frontend repositories
 (Best frontend repositories pinned in original Gihub Pins below)
 
-<a href="https://github.com/SergTyapkin/js-models-validator"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SergTyapkin&repo=js-models-validator&bg_color=00000000&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
-<a href="https://github.com/SergTyapkin/ot.js-AceEditor-addon"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SergTyapkin&repo=ot.js-AceEditor-addon&bg_color=00000000&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
-<a href="https://github.com/SergTyapkin/velo-marshals-frontend"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SergTyapkin&repo=velo-marshals-frontend&bg_color=00000000&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
+<a href="https://github.com/SergTyapkin/js-models-validator"><img height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SergTyapkin&repo=js-models-validator&bg_color=00000000&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
+<a href="https://github.com/SergTyapkin/ot.js-AceEditor-addon"><img height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SergTyapkin&repo=ot.js-AceEditor-addon&bg_color=00000000&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
+<a href="https://github.com/SergTyapkin/velo-marshals-frontend"><img height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SergTyapkin&repo=velo-marshals-frontend&bg_color=00000000&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
 
 
 ## Contacts
