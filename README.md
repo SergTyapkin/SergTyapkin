@@ -43,6 +43,7 @@
 <a href="https://github.com/SergTyapkin/js-models-validator"><img height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SergTyapkin&repo=js-models-validator&bg_color=00000000&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
 <a href="https://github.com/SergTyapkin/ot.js-AceEditor-addon"><img height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SergTyapkin&repo=ot.js-AceEditor-addon&bg_color=00000000&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
 <a href="https://github.com/SergTyapkin/velo-marshals-frontend"><img height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SergTyapkin&repo=velo-marshals-frontend&bg_color=00000000&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
+<a href="https://github.com/SergTyapkin/bubble-ai-chat-frontend"><img height="115" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=SergTyapkin&repo=bubble-ai-chat-frontend&bg_color=00000000&border_color=ffba00&title_color=ffba00&text_color=aaa"></a>
 
 
 ## Contacts
